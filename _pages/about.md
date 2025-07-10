@@ -16,12 +16,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 This is a template webste.
 
-I am a research engineer at New York University. My advisors are [Nikhil Gupta](https://engineering.nyu.edu/faculty/nikhil-gupta) and [Ramesh Karri](https://engineering.nyu.edu/faculty/ramesh-karri).
+I am a junior research fellow at New York University and Fordham University. In NYU, my mentors are [Nikhil Gupta](https://engineering.nyu.edu/faculty/nikhil-gupta), [Susheem Kanwar](https://www.linkedin.com/in/susheem-kanwar/) and [Jiangce Chen](https://www.linkedin.com/in/jiangce-achez-chen-4852301a3/). In Fordham, I am under the guidance of [Camelia Prodan](https://www.linkedin.com/in/camelia-prodan-762b097a/) and [Koorosh Esteki](https://scholar.google.com/citations?user=eXIhPdQAAAAJ&hl=en).
 
-I obtained my PhD degree from University of Connecticut. My PhD advisor is [Horea T. Ilies](https://me.engr.uconn.edu/blog/faculty/ilies-horea-t/). I was a postdoc at Carnegie Mellon University (Jan. 2023-Jan. 2025), advised by [Christopher McComb](https://engineering.cmu.edu/directory/bios/mccomb-christopher.html) and [Sneha Prabha Narra](https://www.meche.engineering.cmu.edu/directory/bios/narra-sneha.html). 
 
 Research interests
 ------
-My research focuses on developing a cyber-physical system that integrates the design, simulations, and manufacturing control enhanced by machine learning for additive manufacturing (AM). It aims to solve the two largest challenges faced by current AM technologies: inaccurate quality control and outdated design frameworks. This system features a real-time digital twin to improve manufacturing quality and a design optimization framework to unlock the full potential of AM in creating structures with multi-scale properties for multi-physic purpose. 
+My research in NYU focuses on developing and characterizing composite materials by systematically varying concentrations of constituent components such as fly ash, carbon, and microspheres. The goal is to engineer materials optimized for performance across diverse mechanical and thermal conditions, including tensile and compressive stress, elevated temperatures, and vibrational frequencies. This investigation supports the broader aim of advancing multi-functional materials for structural and acoustic applications, laying the groundwork for materials that respond adaptively to their environments and can be integrated into next-generation manufacturing systems.
 
+My research at Fordham investigates the behavior of quantum resonators and their coupling mechanisms to explore energy transport and spectral properties in solid-state systems. By analyzing the frequency response and energy gaps of resonator arrays, modeled as analogs for atomic structures and protein dynamics, we aim to better understand how quantum and classical behaviors emerge in engineered materials. Using simulation tools like COMSOL and experimental techniques including 3D-printed prototypes, this work contributes to the development of tunable, low-dimensional systems with potential applications in quantum materials, phononic devices, and energy-efficient technologies.
 
